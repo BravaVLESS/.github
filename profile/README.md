@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:7B2FF7&height=140&section=header" width="100%" alt="" />
+
 
 <a href="https://bravavless.com">
   <img src="https://bravavless.com/logo.png" height="84" align="middle" alt="BravaVLESS logo" />
@@ -28,7 +28,6 @@
 
 ---
 
-### О проекте
 
 **BravaVLESS** — VPN-сервис нового поколения. Быстрые серверы, стабильное соединение, обход БС, сервера с 1000+ мбит/с и понятные тарифы
 
@@ -62,23 +61,3 @@
 
 
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /> </p>
-
----
-
-### Ссылки
-
-<div align="center">
-
-| | |
-|:---|:---|
-| Сайт | [bravavless.com](https://bravavless.com) |
-| Telegram-бот | [@bravavless_bot](https://telegram.me/bravavless_bot) |
-| Telegram-канал | [@bravavless](https://telegram.me/bravavless) |
-| Поддержка | [@bravasupport_bot](https://telegram.me/bravavless_sup) |
-| Мониторинг сервисов | [statuses.bravavless.ru](https://statuses.bravavless.com/status/services) |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0A84FF&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
