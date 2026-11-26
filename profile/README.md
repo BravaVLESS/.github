@@ -4,7 +4,6 @@
 
 <a href="https://bravavless.com">
   <img src="https://bravavless.com/logo.png" height="84" align="middle" alt="BravaVLESS logo" />
-  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="brava-title-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="brava-title-light.png">
