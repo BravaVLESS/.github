@@ -1,10 +1,7 @@
 <div align="center">
 
-
-
 <a href="https://bravavless.com">
-  <img src="https://bravavless.com/logo.png" height="84" align="middle" alt="BravaVLESS logo"/>
-  <picture>
+  <img src="https://bravavless.com/logo.png" height="84" align="middle" hspace="8" alt="BravaVLESS logo"/><picture>
     <source media="(prefers-color-scheme: dark)" srcset="brava-title-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="brava-title-light.png">
     <img src="assets/brava-title-light.png" height="64" align="middle" alt="BravaVLESS"/>
